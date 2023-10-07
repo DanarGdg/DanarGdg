@@ -26,3 +26,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
+
+[![An image of @danargdg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danargdg)](https://holopin.io/@danargdg)
